@@ -1,0 +1,2 @@
+# zion
+server minecraft
