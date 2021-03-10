@@ -1,5 +1,6 @@
 setxkbmap es &
 volumeicon &
+nm-applet &
 nitrogen --restore &
 xrandr -s 1360x768 &
 tint2 &
